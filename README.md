@@ -15,7 +15,7 @@ Look at the [Nuxt 3 documentation](https://v3.nuxtjs.org) to learn more about **
 
 Demo project on **Vercel** [nuxt3-colorchange-starter.vercel.app](https://nuxt3-colorchange-starter.vercel.app)
 
-![image]()
+![image](https://raw.githubusercontent.com/minstn/assets/main/nuxt3-colorchange-starter/preview.gif)
 
 ## Deploy your own project
 
